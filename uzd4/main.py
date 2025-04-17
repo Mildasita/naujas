@@ -9,7 +9,7 @@ from modules.biudzetas import Biudzetas
 FILE_NAME = "biudzetas.pkl"
 
 # asaasasasa
-
+#bbbbbb
 try:
     with open(FILE_NAME, "rb") as f:         #isikeliam senus duomenis
       biudzetas = pickle.load(f)
