@@ -8,6 +8,8 @@ from modules.biudzetas import Biudzetas
 
 FILE_NAME = "biudzetas.pkl"
 
+# asaasasasas
+
 
 try:
     with open(FILE_NAME, "rb") as f:         #isikeliam senus duomenis
