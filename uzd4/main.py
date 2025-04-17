@@ -6,7 +6,7 @@ import pickle
 
 from modules.biudzetas import Biudzetas
 
-FILE_NAME = "biudzetas111.pkl"
+FILE_NAME = "biudzetas.pkl"
 
 
 try:
